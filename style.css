@@ -89,5 +89,7 @@ main p {
   }
   @media (max-width:375px){
     main{flex-direction: column;
+      overflow: scroll;
     }
+    
   }
